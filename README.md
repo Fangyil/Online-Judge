@@ -30,3 +30,17 @@ Python
 | # | Title | Volume | Topic | Solution |
 |---:|---|---|---|---|
 | 100 | [The 3n + 1 Problem](https://onlinejudge.org/external/1/100.pdf) | Volume 1 | Mathematics | [Python](./Volume-001/100/solution.py) |
+
+<!-- PROGRESS-START -->
+✅ Solved: 0
+<!-- PROGRESS-END -->
+
+<!-- TOPICS-START -->
+| Topic | Solved |
+|---|---:|
+<!-- TOPICS-END -->
+
+<!-- PROBLEMS-START -->
+| # | Title | Volume | Topics | Solution |
+|---:|---|---|---|---|
+<!-- PROBLEMS-END -->
