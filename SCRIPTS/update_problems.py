@@ -31,6 +31,11 @@ def markdown_link(label: str, path: Path) -> str:
     return f"[{label}]({quote(relative_path, safe='/')})"
 
 
+def is_solution_file(path: Path) -> bool:
+    """Accept normal .py files and existing extensionless UVa solution files."""
+    return path.is_file() and not path.name.startswith(".") and path.suffix in {"", ".py"}
+
+
 def replace_section(readme: str, section: str) -> str:
     pattern = re.compile(
         rf"{re.escape(START)}.*?{re.escape(END)}", re.DOTALL
@@ -46,19 +51,22 @@ def main() -> None:
 
     if TOPICS_DIR.exists():
         for topic_dir in sorted(path for path in TOPICS_DIR.iterdir() if path.is_dir()):
-            for problem_dir in sorted(path for path in topic_dir.iterdir() if path.is_dir()):
-                parsed = parse_problem_name(problem_dir.name)
+            for item in sorted(topic_dir.iterdir()):
+                parsed = parse_problem_name(item.stem if item.is_file() else item.name)
                 if not parsed:
                     continue
 
                 problem_id, title = parsed
                 titles.setdefault(problem_id, title)
 
-                for solution in sorted(problem_dir.glob("*.py")):
-                    if solution.name.startswith("_"):
-                        continue
-                    method = solution.stem.replace("_", " ")
-                    problems[problem_id].append((topic_dir.name, method, solution))
+                if is_solution_file(item):
+                    problems[problem_id].append((topic_dir.name, "Python", item))
+                elif item.is_dir():
+                    for solution in sorted(item.iterdir()):
+                        if not is_solution_file(solution) or solution.name.startswith("_"):
+                            continue
+                        method = solution.stem.replace("_", " ")
+                        problems[problem_id].append((topic_dir.name, method, solution))
 
     lines = [
         START,
