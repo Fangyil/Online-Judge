@@ -18,12 +18,21 @@ def main() -> None:
 
     if TOPICS_DIR.exists():
         for topic_dir in sorted(path for path in TOPICS_DIR.iterdir() if path.is_dir()):
-            problem_ids = {
-                int(match.group(1))
-                for solution in topic_dir.glob("*/*.py")
-                if not solution.name.startswith("_")
-                if (match := re.match(r"^(\d+)", solution.parent.name))
-            }
+            problem_ids: set[int] = set()
+            for item in topic_dir.iterdir():
+                if item.is_file() and item.suffix in {"", ".py"}:
+                    match = re.match(r"^(\d+)", item.stem)
+                    if match:
+                        problem_ids.add(int(match.group(1)))
+                elif item.is_dir() and any(
+                    child.is_file()
+                    and not child.name.startswith("_")
+                    and child.suffix in {"", ".py"}
+                    for child in item.iterdir()
+                ):
+                    match = re.match(r"^(\d+)", item.name)
+                    if match:
+                        problem_ids.add(int(match.group(1)))
             topic_counts.append((topic_dir.name, len(problem_ids)))
 
     lines = [START, "| Topic | Solved |", "|---|---:|"]
