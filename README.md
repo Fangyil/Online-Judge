@@ -38,7 +38,7 @@ Python
 <!-- TOPICS-START -->
 | Topic | Solved |
 |---|---:|
-| Mathematics | 0 |
+| [Mathematics](TOPICS/Mathematics) | 2 |
 <!-- TOPICS-END -->
 
 <!-- PROBLEMS-START -->
