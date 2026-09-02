@@ -32,7 +32,7 @@ Python
 | 100 | [The 3n + 1 Problem](https://onlinejudge.org/external/1/100.pdf) | Volume 1 | Mathematics | [Python](./Volume-001/100/solution.py) |
 
 <!-- PROGRESS-START -->
-✅ Solved: 0
+✅ Solved: 2
 <!-- PROGRESS-END -->
 
 <!-- TOPICS-START -->
