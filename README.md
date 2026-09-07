@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 7
+✅ Solved: 8
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -21,6 +21,7 @@ Python
 | [BigInteger](TOPICS/BigInteger) | 1 |
 | [BitManipulation](TOPICS/BitManipulation) | 1 |
 | [Mathematics](TOPICS/Mathematics) | 2 |
+| [Simulation](TOPICS/Simulation) | 1 |
 | [StringProcessing](TOPICS/StringProcessing) | 1 |
 <!-- TOPICS-END -->
 
@@ -30,6 +31,7 @@ Python
 | # | Title | Volume | Topics | Solution |
 |---:|---|---|---|---|
 | 100 | [The 3n + 1 problem](https://onlinejudge.org/external/1/100.pdf) | Volume 1 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/100%20-%20The%203n%20%2B%201%20problem.py) |
+| 255 | [Correct Move](https://onlinejudge.org/external/2/255.pdf) | Volume 2 | [Simulation](TOPICS/Simulation) | [Python](TOPICS/Simulation/255%20-%20Correct%20Move.py) |
 | 10008 | [What's Cryptanalysis?](https://onlinejudge.org/external/100/10008.pdf) | Volume 100 | [StringProcessing](TOPICS/StringProcessing) | [Python](TOPICS/StringProcessing/10008%20-%20What%27s%20Cryptanalysis%3F.py) |
 | 10019 | [Funny Encryption Method](https://onlinejudge.org/external/100/10019.pdf) | Volume 100 | [BitManipulation](TOPICS/BitManipulation) | [Python](TOPICS/BitManipulation/10019%20-%20Funny%20Encryption%20Method.py) |
 | 10038 | [Jolly Jumpers](https://onlinejudge.org/external/100/10038.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10038%20-%20Jolly%20Jumpers.py) |
