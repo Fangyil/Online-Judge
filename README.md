@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 13
+✅ Solved: 14
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -20,7 +20,7 @@ Python
 | [Array](TOPICS/Array) | 2 |
 | [Big Integer](TOPICS/Big%20Integer) | 3 |
 | [Bit Manipulation](TOPICS/Bit%20Manipulation) | 1 |
-| [Dynamic Programming](TOPICS/Dynamic%20Programming) | 2 |
+| [Dynamic Programming](TOPICS/Dynamic%20Programming) | 3 |
 | [Mathematics](TOPICS/Mathematics) | 3 |
 | [Simulation](TOPICS/Simulation) | 1 |
 | [String Processing](TOPICS/String%20Processing) | 1 |
@@ -40,6 +40,7 @@ Python
 | 10038 | [Jolly Jumpers](https://onlinejudge.org/external/100/10038.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10038%20-%20Jolly%20Jumpers.py) |
 | 10041 | [Vito's Family](https://onlinejudge.org/external/100/10041.pdf) | Volume 100 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/10041%20-%20Vito%27s%20Family.py) |
 | 10050 | [Hartals](https://onlinejudge.org/external/100/10050.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10050%20-%20Hartals.py) |
+| 10066 | [The Twin Towers](https://onlinejudge.org/external/100/10066.pdf) | Volume 100 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | [Python](TOPICS/Dynamic%20Programming/10066%20-%20The%20Twin%20Towers.py) |
 | 10106 | [Product](https://onlinejudge.org/external/101/10106.pdf) | Volume 101 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10106%20-%20Product.py) |
 | 10192 | [Vacation](https://onlinejudge.org/external/101/10192.pdf) | Volume 101 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | [Python](TOPICS/Dynamic%20Programming/10192%20-%20Vacation.py) |
 | 10220 | [I Love Big Numbers](https://onlinejudge.org/external/102/10220.pdf) | Volume 102 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10220%20-%20I%20Love%20Big%20Numbers.py) |
