@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 10
+✅ Solved: 11
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -18,7 +18,7 @@ Python
 | Topic | Solved |
 |---|---:|
 | [Array](TOPICS/Array) | 2 |
-| [Big Integer](TOPICS/Big%20Integer) | 2 |
+| [Big Integer](TOPICS/Big%20Integer) | 3 |
 | [Bit Manipulation](TOPICS/Bit%20Manipulation) | 1 |
 | [Mathematics](TOPICS/Mathematics) | 3 |
 | [Simulation](TOPICS/Simulation) | 1 |
@@ -40,4 +40,5 @@ Python
 | 10041 | [Vito's Family](https://onlinejudge.org/external/100/10041.pdf) | Volume 100 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/10041%20-%20Vito%27s%20Family.py) |
 | 10050 | [Hartals](https://onlinejudge.org/external/100/10050.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10050%20-%20Hartals.py) |
 | 10106 | [Product](https://onlinejudge.org/external/101/10106.pdf) | Volume 101 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10106%20-%20Product.py) |
+| 10220 | [I Love Big Numbers](https://onlinejudge.org/external/102/10220.pdf) | Volume 102 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10220%20-%20I%20Love%20Big%20Numbers.py) |
 <!-- PROBLEMS-END -->
