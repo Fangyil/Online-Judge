@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 16
+✅ Solved: 17
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -23,7 +23,7 @@ Python
 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | 3 |
 | [Geometry](TOPICS/Geometry) | 1 |
 | [Mathematics](TOPICS/Mathematics) | 3 |
-| [Simulation](TOPICS/Simulation) | 1 |
+| [Simulation](TOPICS/Simulation) | 2 |
 | [String Processing](TOPICS/String%20Processing) | 2 |
 <!-- TOPICS-END -->
 
@@ -43,6 +43,7 @@ Python
 | 10050 | [Hartals](https://onlinejudge.org/external/100/10050.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10050%20-%20Hartals.py) |
 | 10066 | [The Twin Towers](https://onlinejudge.org/external/100/10066.pdf) | Volume 100 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | [Python](TOPICS/Dynamic%20Programming/10066%20-%20The%20Twin%20Towers.py) |
 | 10106 | [Product](https://onlinejudge.org/external/101/10106.pdf) | Volume 101 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10106%20-%20Product.py) |
+| 10189 | [Minesweeper](https://onlinejudge.org/external/101/10189.pdf) | Volume 101 | [Simulation](TOPICS/Simulation) | [Python](TOPICS/Simulation/10189%20-%20Minesweeper.py) |
 | 10192 | [Vacation](https://onlinejudge.org/external/101/10192.pdf) | Volume 101 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | [Python](TOPICS/Dynamic%20Programming/10192%20-%20Vacation.py) |
 | 10220 | [I Love Big Numbers](https://onlinejudge.org/external/102/10220.pdf) | Volume 102 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10220%20-%20I%20Love%20Big%20Numbers.py) |
 | 10252 | [Common Permutation](https://onlinejudge.org/external/102/10252.pdf) | Volume 102 | [String Processing](TOPICS/String%20Processing) | [Python](TOPICS/String%20Processing/10252%20-%20Common%20Permutation.py) |
