@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 9
+✅ Solved: 10
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -18,7 +18,7 @@ Python
 | Topic | Solved |
 |---|---:|
 | [Array](TOPICS/Array) | 2 |
-| [Big Integer](TOPICS/Big%20Integer) | 1 |
+| [Big Integer](TOPICS/Big%20Integer) | 2 |
 | [Bit Manipulation](TOPICS/Bit%20Manipulation) | 1 |
 | [Mathematics](TOPICS/Mathematics) | 3 |
 | [Simulation](TOPICS/Simulation) | 1 |
@@ -33,6 +33,7 @@ Python
 | 100 | [The 3n + 1 problem](https://onlinejudge.org/external/1/100.pdf) | Volume 1 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/100%20-%20The%203n%20%2B%201%20problem.py) |
 | 255 | [Correct Move](https://onlinejudge.org/external/2/255.pdf) | Volume 2 | [Simulation](TOPICS/Simulation) | [Python](TOPICS/Simulation/255%20-%20Correct%20Move.py) |
 | 294 | [Divisors](https://onlinejudge.org/external/2/294.pdf) | Volume 2 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/294%20-%20Divisors.py) |
+| 623 | [500 factorial](https://onlinejudge.org/external/6/623.pdf) | Volume 6 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/623%20-%20500%20factorial.py) |
 | 10008 | [What's Cryptanalysis?](https://onlinejudge.org/external/100/10008.pdf) | Volume 100 | [String Processing](TOPICS/String%20Processing) | [Python](TOPICS/String%20Processing/10008%20-%20What%27s%20Cryptanalysis%3F.py) |
 | 10019 | [Funny Encryption Method](https://onlinejudge.org/external/100/10019.pdf) | Volume 100 | [Bit Manipulation](TOPICS/Bit%20Manipulation) | [Python](TOPICS/Bit%20Manipulation/10019%20-%20Funny%20Encryption%20Method.py) |
 | 10038 | [Jolly Jumpers](https://onlinejudge.org/external/100/10038.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10038%20-%20Jolly%20Jumpers.py) |
