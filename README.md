@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 18
+✅ Solved: 19
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -22,7 +22,7 @@ Python
 | [Bit Manipulation](TOPICS/Bit%20Manipulation) | 1 |
 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | 3 |
 | [Geometry](TOPICS/Geometry) | 1 |
-| [Mathematics](TOPICS/Mathematics) | 3 |
+| [Mathematics](TOPICS/Mathematics) | 4 |
 | [Simulation](TOPICS/Simulation) | 2 |
 | [String Processing](TOPICS/String%20Processing) | 3 |
 <!-- TOPICS-END -->
@@ -38,6 +38,7 @@ Python
 | 623 | [500 factorial](https://onlinejudge.org/external/6/623.pdf) | Volume 6 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/623%20-%20500%20factorial.py) |
 | 10008 | [What's Cryptanalysis?](https://onlinejudge.org/external/100/10008.pdf) | Volume 100 | [String Processing](TOPICS/String%20Processing) | [Python](TOPICS/String%20Processing/10008%20-%20What%27s%20Cryptanalysis%3F.py) |
 | 10019 | [Funny Encryption Method](https://onlinejudge.org/external/100/10019.pdf) | Volume 100 | [Bit Manipulation](TOPICS/Bit%20Manipulation) | [Python](TOPICS/Bit%20Manipulation/10019%20-%20Funny%20Encryption%20Method.py) |
+| 10035 | [Primary Arithmetic](https://onlinejudge.org/external/100/10035.pdf) | Volume 100 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/10035%20-%20Primary%20Arithmetic.py) |
 | 10038 | [Jolly Jumpers](https://onlinejudge.org/external/100/10038.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10038%20-%20Jolly%20Jumpers.py) |
 | 10041 | [Vito's Family](https://onlinejudge.org/external/100/10041.pdf) | Volume 100 | [Mathematics](TOPICS/Mathematics) | [Python](TOPICS/Mathematics/10041%20-%20Vito%27s%20Family.py) |
 | 10050 | [Hartals](https://onlinejudge.org/external/100/10050.pdf) | Volume 100 | [Array](TOPICS/Array) | [Python](TOPICS/Array/10050%20-%20Hartals.py) |
