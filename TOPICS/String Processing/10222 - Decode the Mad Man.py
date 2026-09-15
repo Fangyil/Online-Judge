@@ -6,6 +6,7 @@ row2 = "asdfghjkl;'"
 row3 = "zxcvbnm,./"
 
 mapping = {}
+# 每個字母或符號以鍵盤上它左邊第二個鍵的符號來取代
 for i in range(2, len(row0)):
     mapping[row0[i]] = row0[i - 2]
 for i in range(2, len(row1)):
