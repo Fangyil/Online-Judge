@@ -9,7 +9,7 @@ Python
 ## Progress Tracker
 
 <!-- PROGRESS-START -->
-✅ Solved: 17
+✅ Solved: 18
 <!-- PROGRESS-END -->
 
 ## Topics Covered
@@ -24,7 +24,7 @@ Python
 | [Geometry](TOPICS/Geometry) | 1 |
 | [Mathematics](TOPICS/Mathematics) | 3 |
 | [Simulation](TOPICS/Simulation) | 2 |
-| [String Processing](TOPICS/String%20Processing) | 2 |
+| [String Processing](TOPICS/String%20Processing) | 3 |
 <!-- TOPICS-END -->
 
 ## Problem List
@@ -46,6 +46,7 @@ Python
 | 10189 | [Minesweeper](https://onlinejudge.org/external/101/10189.pdf) | Volume 101 | [Simulation](TOPICS/Simulation) | [Python](TOPICS/Simulation/10189%20-%20Minesweeper.py) |
 | 10192 | [Vacation](https://onlinejudge.org/external/101/10192.pdf) | Volume 101 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | [Python](TOPICS/Dynamic%20Programming/10192%20-%20Vacation.py) |
 | 10220 | [I Love Big Numbers](https://onlinejudge.org/external/102/10220.pdf) | Volume 102 | [Big Integer](TOPICS/Big%20Integer) | [Python](TOPICS/Big%20Integer/10220%20-%20I%20Love%20Big%20Numbers.py) |
+| 10222 | [Decode the Mad Man](https://onlinejudge.org/external/102/10222.pdf) | Volume 102 | [String Processing](TOPICS/String%20Processing) | [Python](TOPICS/String%20Processing/10222%20-%20Decode%20the%20Mad%20Man.py) |
 | 10252 | [Common Permutation](https://onlinejudge.org/external/102/10252.pdf) | Volume 102 | [String Processing](TOPICS/String%20Processing) | [Python](TOPICS/String%20Processing/10252%20-%20Common%20Permutation.py) |
 | 10405 | [Longest Common Subsequence](https://onlinejudge.org/external/104/10405.pdf) | Volume 104 | [Dynamic Programming](TOPICS/Dynamic%20Programming) | [Python](TOPICS/Dynamic%20Programming/10405%20-%20Longest%20Common%20Subsequence.py) |
 | 11639 | [Guard the Land](https://onlinejudge.org/external/116/11639.pdf) | Volume 116 | [Geometry](TOPICS/Geometry) | [Python](TOPICS/Geometry/11639%20-%20Guard%20the%20Land.py) |
